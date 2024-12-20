@@ -1,0 +1,2 @@
+Nro_Doc	Fecha	Cuenta	Tipo	Monto	Hecho_Por
+DOC00001	17/12/2024	Caja	Crédito	500,00	Admin
