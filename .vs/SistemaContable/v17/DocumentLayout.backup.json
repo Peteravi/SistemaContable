@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|c:\\users\\andrews\\source\\repos\\sistemacontable\\sistemacontable\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|solutionrelative:sistemacontable\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|c:\\users\\andrews\\source\\repos\\sistemacontable\\sistemacontable\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|solutionrelative:sistemacontable\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|c:\\users\\andrews\\source\\repos\\sistemacontable\\sistemacontable\\forms\\formestadogananciasperdidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|solutionrelative:sistemacontable\\forms\\formestadogananciasperdidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|c:\\users\\andrews\\source\\repos\\sistemacontable\\sistemacontable\\forms\\formestadogananciasperdidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|solutionrelative:sistemacontable\\forms\\formestadogananciasperdidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|c:\\users\\andrews\\source\\repos\\sistemacontable\\sistemacontable\\forms\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|solutionrelative:sistemacontable\\forms\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|c:\\users\\andrews\\source\\repos\\sistemacontable\\sistemacontable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|solutionrelative:sistemacontable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|C:\\Users\\Andrews\\source\\repos\\SistemaContable\\sistemacontable\\forms\\formgastosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|solutionrelative:sistemacontable\\forms\\formgastosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|c:\\users\\andrews\\source\\repos\\sistemacontable\\sistemacontable\\conexiondb\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|solutionrelative:sistemacontable\\conexiondb\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|c:\\users\\andrews\\source\\repos\\sistemacontable\\sistemacontable\\forms\\formbalancegeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|solutionrelative:sistemacontable\\forms\\formbalancegeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|c:\\users\\andrews\\source\\repos\\sistemacontable\\sistemacontable\\forms\\formgastosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|solutionrelative:sistemacontable\\forms\\formgastosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|C:\\Users\\Andrews\\source\\repos\\SistemaContable\\sistemacontable\\forms\\formbalancegeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EFF2988-D732-42BF-9CF2-4C1D580F70DB}|SistemaContable\\SistemaContable.csproj|solutionrelative:sistemacontable\\forms\\formbalancegeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 261,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SistemaContable\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "SistemaContable\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwG4AAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T00:11:02.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SistemaContable\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaContable\\Forms\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T00:10:59.519Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaContable\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Program.cs",
+              "RelativeToolTip": "SistemaContable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:33:48.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormEstadoGananciasPerdidas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormEstadoGananciasPerdidas.cs",
+              "RelativeDocumentMoniker": "SistemaContable\\Forms\\FormEstadoGananciasPerdidas.cs",
+              "ToolTip": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormEstadoGananciasPerdidas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaContable\\Forms\\FormEstadoGananciasPerdidas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:28:36.977Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEstadoGananciasPerdidas.cs",
+              "DocumentMoniker": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormEstadoGananciasPerdidas.cs",
+              "RelativeDocumentMoniker": "SistemaContable\\Forms\\FormEstadoGananciasPerdidas.cs",
+              "ToolTip": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormEstadoGananciasPerdidas.cs",
+              "RelativeToolTip": "SistemaContable\\Forms\\FormEstadoGananciasPerdidas.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:27:10.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormGastosGenerales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormGastosGenerales.cs",
+              "RelativeDocumentMoniker": "SistemaContable\\Forms\\FormGastosGenerales.cs",
+              "ToolTip": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormGastosGenerales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaContable\\Forms\\FormGastosGenerales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:17:51.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormGastosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormGastosGenerales.cs",
+              "RelativeDocumentMoniker": "SistemaContable\\Forms\\FormGastosGenerales.cs",
+              "ToolTip": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormGastosGenerales.cs",
+              "RelativeToolTip": "SistemaContable\\Forms\\FormGastosGenerales.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:15:06.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormBalanceGeneral.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormBalanceGeneral.cs",
+              "RelativeDocumentMoniker": "SistemaContable\\Forms\\FormBalanceGeneral.cs",
+              "ToolTip": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormBalanceGeneral.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaContable\\Forms\\FormBalanceGeneral.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:10:06.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormBalanceGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormBalanceGeneral.cs",
+              "RelativeDocumentMoniker": "SistemaContable\\Forms\\FormBalanceGeneral.cs",
+              "ToolTip": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormBalanceGeneral.cs",
+              "RelativeToolTip": "SistemaContable\\Forms\\FormBalanceGeneral.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv2sAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:09:41.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormularioPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormularioPrincipal.cs",
+              "RelativeDocumentMoniker": "SistemaContable\\Forms\\FormularioPrincipal.cs",
+              "ToolTip": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\Forms\\FormularioPrincipal.cs",
+              "RelativeToolTip": "SistemaContable\\Forms\\FormularioPrincipal.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAQwKIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:26:35.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\ConexionDB\\Conexion.cs",
+              "RelativeDocumentMoniker": "SistemaContable\\ConexionDB\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Andrews\\source\\repos\\SistemaContable\\SistemaContable\\ConexionDB\\Conexion.cs",
+              "RelativeToolTip": "SistemaContable\\ConexionDB\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:21:07.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
